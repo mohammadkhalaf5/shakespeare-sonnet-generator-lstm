@@ -63,8 +63,3 @@ a fleeting dream too delicate to bear
 
 *(Example output – actual output varies each run.)*
 
----
-
-## How to Run the Project
-
-Clone the repository:
